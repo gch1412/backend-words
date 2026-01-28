@@ -10,7 +10,7 @@ const getAllWords = async (req, res) => {
         return data
     }))
 
-    res.header('Access-Control-Allow-Origin', 'https://gch1412.github.io/')
+    //res.header('Access-Control-Allow-Origin', 'https://gch1412.github.io/')
 
     res.json(words)
 }
