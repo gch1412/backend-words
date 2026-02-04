@@ -1,1 +1,4867 @@
-[{"id":1,"word":"dog","translations":["cachorro"],"wordClass":"noun"},{"id":2,"word":"cat","translations":["gato"],"wordClass":"noun"},{"id":3,"word":"fish","translations":["peixe"],"wordClass":"noun"},{"id":4,"word":"bird","translations":["ave","pássaro"],"wordClass":"noun"},{"id":5,"word":"cow","translations":["vaca"],"wordClass":"noun"},{"id":6,"word":"pig","translations":["porco"],"wordClass":"noun"},{"id":7,"word":"horse","translations":["cavalo"],"wordClass":"noun"},{"id":8,"word":"wing","translations":["asa"],"wordClass":"noun"},{"id":9,"word":"train","translations":["trem"],"wordClass":"noun"},{"id":10,"word":"plane","translations":["avião"],"wordClass":"noun"},{"id":11,"word":"car","translations":["carro"],"wordClass":"noun"},{"id":12,"word":"truck","translations":["caminhão"],"wordClass":"noun"},{"id":13,"word":"bicycle","translations":["bicicleta"],"wordClass":"noun"},{"id":14,"word":"bus","translations":["ônibus"],"wordClass":"noun"},{"id":15,"word":"boat","translations":["barco"],"wordClass":"noun"},{"id":16,"word":"ship","translations":["navio"],"wordClass":"noun"},{"id":17,"word":"tire","translations":["pneu"],"wordClass":"noun"},{"id":18,"word":"gasoline","translations":["gasolina"],"wordClass":"noun"},{"id":19,"word":"engine","translations":["motor"],"wordClass":"noun"},{"id":20,"word":"ticket","translations":["bilhete"],"wordClass":"noun"},{"id":21,"word":"transportation","translations":["transporte"],"wordClass":"noun"},{"id":22,"word":"city","translations":["cidade"],"wordClass":"noun"},{"id":23,"word":"house","translations":["casa"],"wordClass":"noun"},{"id":24,"word":"apartment","translations":["apartamento"],"wordClass":"noun"},{"id":25,"word":"street","translations":["rua"],"wordClass":"noun"},{"id":26,"word":"airport","translations":["aeroporto"],"wordClass":"noun"},{"id":27,"word":"train station","translations":["estação de trem"],"wordClass":"noun"},{"id":28,"word":"bridge","translations":["ponte"],"wordClass":"noun"},{"id":29,"word":"hotel","translations":["hotel"],"wordClass":"noun"},{"id":30,"word":"restaurant","translations":["restaurante"],"wordClass":"noun"},{"id":31,"word":"farm","translations":["fazenda"],"wordClass":"noun"},{"id":32,"word":"court","translations":["quadra (esportiva)"],"wordClass":"noun"},{"id":33,"word":"school","translations":["escola"],"wordClass":"noun"},{"id":34,"word":"office","translations":["escritório"],"wordClass":"noun"},{"id":35,"word":"room","translations":["quarto"],"wordClass":"noun"},{"id":36,"word":"town","translations":["cidade (pequena)"],"wordClass":"noun"},{"id":37,"word":"university","translations":["universidade"],"wordClass":"noun"},{"id":38,"word":"club","translations":["clube","boate"],"wordClass":"noun"},{"id":39,"word":"bar","translations":["bar"],"wordClass":"noun"},{"id":40,"word":"park","translations":["parque"],"wordClass":"noun"},{"id":41,"word":"camp","translations":["acampamento"],"wordClass":"noun"},{"id":42,"word":"store/shop","translations":["loja"],"wordClass":"noun"},{"id":43,"word":"theater","translations":["teatro"],"wordClass":"noun"},{"id":44,"word":"library","translations":["biblioteca"],"wordClass":"noun"},{"id":45,"word":"hospital","translations":["hospital"],"wordClass":"noun"},{"id":46,"word":"church","translations":["igreja"],"wordClass":"noun"},{"id":47,"word":"market","translations":["mercado"],"wordClass":"noun"},{"id":48,"word":"country","translations":["país"],"wordClass":"noun"},{"id":49,"word":"building","translations":["prédio","construção"],"wordClass":"noun"},{"word":"ground","translations":["solo"],"wordClass":"noun","id":50},{"id":51,"word":"space (outer space)","translations":["espaço (sideral)"],"wordClass":"noun"},{"id":52,"word":"bank","translations":["banco"],"wordClass":"noun"},{"id":53,"word":"location","translations":["lugar"],"wordClass":"noun"},{"id":54,"word":"hat","translations":["chapéu"],"wordClass":"noun"},{"id":55,"word":"dress","translations":["vestido"],"wordClass":"noun"},{"id":56,"word":"suit","translations":["traje"],"wordClass":"noun"},{"id":57,"word":"skirt","translations":["saia"],"wordClass":"noun"},{"id":58,"word":"shirt","translations":["camisa"],"wordClass":"noun"},{"id":59,"word":"T-shirt","translations":["camiseta"],"wordClass":"noun"},{"id":60,"word":"pants","translations":["calças"],"wordClass":"noun"},{"id":61,"word":"pocket","translations":["bolso"],"wordClass":"noun"},{"id":62,"word":"coat","translations":["casaco"],"wordClass":"noun"},{"id":63,"word":"stain","translations":["mancha"],"wordClass":"noun"},{"id":64,"word":"clothing","translations":["roupas"],"wordClass":"noun"},{"id":65,"word":"color","translations":["cor"],"wordClass":"noun"},{"id":66,"word":"son","translations":["filho"],"wordClass":"noun"},{"id":67,"word":"daughter","translations":["filha"],"wordClass":"noun"},{"id":68,"word":"mother","translations":["mãe"],"wordClass":"noun"},{"id":69,"word":"father","translations":["pai"],"wordClass":"noun"},{"id":70,"word":"parent","translations":["pais (pai/mãe)"],"wordClass":"noun"},{"id":71,"word":"baby","translations":["bebê"],"wordClass":"noun"},{"id":72,"word":"man","translations":["homem"],"wordClass":"noun"},{"id":73,"word":"woman","translations":["mulher"],"wordClass":"noun"},{"id":74,"word":"brother","translations":["irmão"],"wordClass":"noun"},{"id":75,"word":"sister","translations":["irmã"],"wordClass":"noun"},{"id":76,"word":"family","translations":["família"],"wordClass":"noun"},{"id":77,"word":"grandfather","translations":["avô"],"wordClass":"noun"},{"id":78,"word":"grandmother","translations":["avó"],"wordClass":"noun"},{"id":79,"word":"husband","translations":["marido"],"wordClass":"noun"},{"id":80,"word":"wife","translations":["esposa"],"wordClass":"noun"},{"id":81,"word":"king","translations":["rei"],"wordClass":"noun"},{"id":82,"word":"queen","translations":["rainha"],"wordClass":"noun"},{"id":83,"word":"president","translations":["presidente"],"wordClass":"noun"},{"id":84,"word":"neighbor","translations":["vizinho"],"wordClass":"noun"},{"id":85,"word":"boy","translations":["menino"],"wordClass":"noun"},{"id":86,"word":"girl","translations":["menina"],"wordClass":"noun"},{"id":87,"word":"child","translations":["criança"],"wordClass":"noun"},{"id":88,"word":"adult","translations":["adulto"],"wordClass":"noun"},{"id":89,"word":"human","translations":["humano"],"wordClass":"noun"},{"id":90,"word":"friend","translations":["amigo"],"wordClass":"noun"},{"id":91,"word":"victim","translations":["vítima"],"wordClass":"noun"},{"id":92,"word":"player","translations":["jogador"],"wordClass":"noun"},{"id":93,"word":"fan","translations":["fã"],"wordClass":"noun"},{"id":94,"word":"crowd","translations":["multidão"],"wordClass":"noun"},{"id":95,"word":"person","translations":["pessoa"],"wordClass":"noun"},{"id":96,"word":"teacher","translations":["professor"],"wordClass":"noun"},{"id":97,"word":"student","translations":["estudante"],"wordClass":"noun"},{"id":98,"word":"lawyer","translations":["advogado"],"wordClass":"noun"},{"id":99,"word":"doctor","translations":["médico"],"wordClass":"noun"},{"id":100,"word":"patient","translations":["paciente (hospital)"],"wordClass":"noun"},{"id":101,"word":"waiter","translations":["garçom"],"wordClass":"noun"},{"id":102,"word":"secretary","translations":["secretário"],"wordClass":"noun"},{"id":103,"word":"priest","translations":["padre","sacerdote"],"wordClass":"noun"},{"id":104,"word":"police","translations":["polícia"],"wordClass":"noun"},{"id":105,"word":"army","translations":["exército"],"wordClass":"noun"},{"id":106,"word":"soldier","translations":["soldado"],"wordClass":"noun"},{"id":107,"word":"artist","translations":["artista"],"wordClass":"noun"},{"id":108,"word":"author","translations":["autor"],"wordClass":"noun"},{"id":109,"word":"manager","translations":["administrador"],"wordClass":"noun"},{"id":110,"word":"reporter","translations":["repórter"],"wordClass":"noun"},{"id":111,"word":"actor","translations":["ator"],"wordClass":"noun"},{"id":112,"word":"actress","translations":["atriz"],"wordClass":"noun"},{"id":113,"word":"job","translations":["trabalho","emprego"],"wordClass":"noun"},{"id":114,"word":"religion","translations":["religião"],"wordClass":"noun"},{"id":115,"word":"heaven","translations":["céu","Paraíso"],"wordClass":"noun"},{"id":116,"word":"hell","translations":["inferno"],"wordClass":"noun"},{"id":117,"word":"death","translations":["morte"],"wordClass":"noun"},{"id":118,"word":"medicine","translations":["medicina"],"wordClass":"noun"},{"id":119,"word":"money","translations":["dinheiro"],"wordClass":"noun"},{"id":120,"word":"dollar","translations":["dólar"],"wordClass":"noun"},{"id":121,"word":"bill","translations":["nota","conta"],"wordClass":"noun"},{"id":122,"word":"marriage","translations":["casamento"],"wordClass":"noun"},{"id":123,"word":"wedding","translations":["festa de casamento"],"wordClass":"noun"},{"id":124,"word":"team","translations":["time"],"wordClass":"noun"},{"id":125,"word":"race (ethnicity)","translations":["raça"],"wordClass":"noun"},{"id":126,"word":"sex","translations":["sexo"],"wordClass":"noun"},{"id":127,"word":"murder","translations":["assassinato"],"wordClass":"noun"},{"id":128,"word":"prison","translations":["prisão"],"wordClass":"noun"},{"id":129,"word":"technology","translations":["tecnologia"],"wordClass":"noun"},{"id":130,"word":"energy","translations":["energia"],"wordClass":"noun"},{"id":131,"word":"war","translations":["guerra"],"wordClass":"noun"},{"id":132,"word":"peace","translations":["paz"],"wordClass":"noun"},{"id":133,"word":"attack","translations":["ataque"],"wordClass":"noun"},{"id":134,"word":"election","translations":["eleição"],"wordClass":"noun"},{"id":135,"word":"magazine","translations":["revista"],"wordClass":"noun"},{"id":136,"word":"newpaper","translations":["jornal"],"wordClass":"noun"},{"id":137,"word":"poison","translations":["veneno"],"wordClass":"noun"},{"id":138,"word":"gun","translations":["arma de fogo"],"wordClass":"noun"},{"id":139,"word":"sport","translations":["esporte"],"wordClass":"noun"},{"id":140,"word":"race (sport)","translations":["corrida"],"wordClass":"noun"},{"id":141,"word":"exercise","translations":["exercício"],"wordClass":"noun"},{"id":142,"word":"ball","translations":["bola"],"wordClass":"noun"},{"id":143,"word":"game","translations":["jogo"],"wordClass":"noun"},{"id":144,"word":"price","translations":["preço"],"wordClass":"noun"},{"id":145,"word":"contract","translations":["contrato"],"wordClass":"noun"},{"id":146,"word":"drug","translations":["droga"],"wordClass":"noun"},{"id":147,"word":"sign","translations":["sinal"],"wordClass":"noun"},{"id":148,"word":"science","translations":["ciência"],"wordClass":"noun"},{"id":149,"word":"God","translations":["Deus"],"wordClass":"noun"},{"id":150,"word":"band","translations":["banda"],"wordClass":"noun"},{"id":151,"word":"song","translations":["canção"],"wordClass":"noun"},{"id":152,"word":"muscial instrument","translations":["instrumento musical"],"wordClass":"noun"},{"id":153,"word":"music","translations":["música"],"wordClass":"noun"},{"id":154,"word":"movie","translations":["filme"],"wordClass":"noun"},{"id":155,"word":"art","translations":["arte"],"wordClass":"noun"},{"id":156,"word":"coffee","translations":["café"],"wordClass":"noun"},{"id":157,"word":"tea","translations":["chá"],"wordClass":"noun"},{"id":158,"word":"wine","translations":["vinho"],"wordClass":"noun"},{"id":159,"word":"beer","translations":["cerveja"],"wordClass":"noun"},{"id":160,"word":"juice","translations":["suco"],"wordClass":"noun"},{"id":161,"word":"water","translations":["água"],"wordClass":"noun"},{"id":162,"word":"milk","translations":["leite"],"wordClass":"noun"},{"id":163,"word":"beverage","translations":["bebida"],"wordClass":"noun"},{"id":164,"word":"egg","translations":["ovo"],"wordClass":"noun"},{"id":165,"word":"cheese","translations":["queijo"],"wordClass":"noun"},{"id":166,"word":"bread","translations":["pão"],"wordClass":"noun"},{"id":167,"word":"soup","translations":["sopa"],"wordClass":"noun"},{"id":168,"word":"cake","translations":["bolo"],"wordClass":"noun"},{"id":169,"word":"chicken","translations":["frango"],"wordClass":"noun"},{"id":170,"word":"pork","translations":["carne de porco"],"wordClass":"noun"},{"id":171,"word":"beef","translations":["carne de gado"],"wordClass":"noun"},{"id":172,"word":"apple","translations":["maçã"],"wordClass":"noun"},{"id":173,"word":"banana","translations":["banana"],"wordClass":"noun"},{"id":174,"word":"orange","translations":["laranja"],"wordClass":"noun"},{"id":175,"word":"lemon","translations":["limão"],"wordClass":"noun"},{"id":176,"word":"corn","translations":["milho"],"wordClass":"noun"},{"id":177,"word":"rice","translations":["arroz"],"wordClass":"noun"},{"id":178,"word":"oil","translations":["óleo"],"wordClass":"noun"},{"id":179,"word":"seed","translations":["semente","grão"],"wordClass":"noun"},{"id":180,"word":"knife","translations":["faca"],"wordClass":"noun"},{"id":181,"word":"spoon","translations":["colher"],"wordClass":"noun"},{"id":182,"word":"fork","translations":["garfo"],"wordClass":"noun"},{"id":183,"word":"plate","translations":["prato"],"wordClass":"noun"},{"id":184,"word":"cup","translations":["xícara"],"wordClass":"noun"},{"id":185,"word":"breakfast","translations":["café da manhã"],"wordClass":"noun"},{"id":186,"word":"lunch","translations":["almoço"],"wordClass":"noun"},{"id":187,"word":"dinner","translations":["janta"],"wordClass":"noun"},{"id":188,"word":"sugar","translations":["açúcar"],"wordClass":"noun"},{"id":189,"word":"salt","translations":["sal"],"wordClass":"noun"},{"id":190,"word":"bottle","translations":["garrafa"],"wordClass":"noun"},{"word":"food","translations":["comida"],"wordClass":"noun","id":191},{"id":192,"word":"table","translations":["mesa"],"wordClass":"noun"},{"id":193,"word":"chair","translations":["cadeira"],"wordClass":"noun"},{"id":194,"word":"bed","translations":["cama"],"wordClass":"noun"},{"id":195,"word":"dream","translations":["sonho"],"wordClass":"noun"},{"id":196,"word":"window","translations":["janela"],"wordClass":"noun"},{"id":197,"word":"door","translations":["porta"],"wordClass":"noun"},{"id":198,"word":"bedroom","translations":["quarto"],"wordClass":"noun"},{"id":199,"word":"kitchen","translations":["cozinha"],"wordClass":"noun"},{"id":200,"word":"bathroom","translations":["banheiro (de casa)"],"wordClass":"noun"},{"id":201,"word":"pencil","translations":["lápis"],"wordClass":"noun"},{"id":202,"word":"pen","translations":["caneta"],"wordClass":"noun"},{"id":203,"word":"photograph","translations":["fotografia"],"wordClass":"noun"},{"id":204,"word":"soap","translations":["sabão"],"wordClass":"noun"},{"id":205,"word":"book","translations":["livro"],"wordClass":"noun"},{"id":206,"word":"page","translations":["página"],"wordClass":"noun"},{"id":207,"word":"key","translations":["chave"],"wordClass":"noun"},{"id":208,"word":"paint","translations":["pintura","tinta (de parede)"],"wordClass":"noun"},{"id":209,"word":"letter","translations":["carta"],"wordClass":"noun"},{"id":210,"word":"note","translations":["nota"],"wordClass":"noun"},{"id":211,"word":"wall","translations":["parede"],"wordClass":"noun"},{"id":212,"word":"paper","translations":["papel"],"wordClass":"noun"},{"id":213,"word":"floor","translations":["chão"],"wordClass":"noun"},{"id":214,"word":"ceiling","translations":["teto"],"wordClass":"noun"},{"id":215,"word":"roof","translations":["telhado"],"wordClass":"noun"},{"id":216,"word":"pool","translations":["piscina"],"wordClass":"noun"},{"id":217,"word":"lock","translations":["cadeado"],"wordClass":"noun"},{"id":218,"word":"telephone","translations":["telefone"],"wordClass":"noun"},{"id":219,"word":"garden","translations":["jardim"],"wordClass":"noun"},{"id":220,"word":"yard","translations":["quintal"],"wordClass":"noun"},{"id":221,"word":"needle","translations":["agulha"],"wordClass":"noun"},{"id":222,"word":"bag","translations":["saco, bolsa"],"wordClass":"noun"},{"id":223,"word":"box","translations":["caixa"],"wordClass":"noun"},{"id":224,"word":"gift","translations":["presente"],"wordClass":"noun"},{"id":225,"word":"card","translations":["cartão"],"wordClass":"noun"},{"id":226,"word":"ring","translations":["anel"],"wordClass":"noun"},{"id":227,"word":"tool","translations":["ferramenta"],"wordClass":"noun"},{"id":228,"word":"clock","translations":["relógio (de parede)"],"wordClass":"noun"},{"id":229,"word":"lamp","translations":["abajur"],"wordClass":"noun"},{"id":230,"word":"fan","translations":["ventilador"],"wordClass":"noun"},{"id":231,"word":"cell phone","translations":["celular"],"wordClass":"noun"},{"id":232,"word":"network","translations":["rede"],"wordClass":"noun"},{"id":233,"word":"computer","translations":["computador"],"wordClass":"noun"},{"id":234,"word":"program (computer)","translations":["programa (computador)"],"wordClass":"noun"},{"id":235,"word":"laptop","translations":["notebook"],"wordClass":"noun"},{"id":236,"word":"screen","translations":["tela"],"wordClass":"noun"},{"id":237,"word":"camera","translations":["câmera"],"wordClass":"noun"},{"id":238,"word":"television","translations":["televisão"],"wordClass":"noun"},{"id":239,"word":"radio","translations":["rádio"],"wordClass":"noun"},{"id":240,"word":"head","translations":["cabeça"],"wordClass":"noun"},{"id":241,"word":"neck","translations":["pescoço"],"wordClass":"noun"},{"id":242,"word":"face","translations":["rosto"],"wordClass":"noun"},{"id":243,"word":"beard","translations":["barba"],"wordClass":"noun"},{"id":244,"word":"hair","translations":["cabelo"],"wordClass":"noun"},{"id":245,"word":"eye","translations":["olho"],"wordClass":"noun"},{"id":246,"word":"mouth","translations":["boca"],"wordClass":"noun"},{"id":247,"word":"lip","translations":["lábio"],"wordClass":"noun"},{"id":248,"word":"nose","translations":["nariz"],"wordClass":"noun"},{"id":249,"word":"tooth","translations":["dente"],"wordClass":"noun"},{"id":250,"word":"ear","translations":["orelha","ouvido"],"wordClass":"noun"},{"id":251,"word":"tear","translations":["lágrima"],"wordClass":"noun"},{"id":252,"word":"tongue","translations":["língua"],"wordClass":"noun"},{"id":253,"word":"back","translations":["costas"],"wordClass":"noun"},{"id":254,"word":"toe","translations":["dedo (do pé)"],"wordClass":"noun"},{"id":255,"word":"finger","translations":["dedo (da mão)"],"wordClass":"noun"},{"id":256,"word":"foot","translations":["pé"],"wordClass":"noun"},{"id":257,"word":"hand","translations":["mão"],"wordClass":"noun"},{"id":258,"word":"leg","translations":["perna"],"wordClass":"noun"},{"id":259,"word":"arm","translations":["braço"],"wordClass":"noun"},{"id":260,"word":"shoulder","translations":["ombro"],"wordClass":"noun"},{"id":261,"word":"heart","translations":["coração"],"wordClass":"noun"},{"id":262,"word":"blood","translations":["sangue"],"wordClass":"noun"},{"id":263,"word":"brain","translations":["cérebro"],"wordClass":"noun"},{"id":264,"word":"knee","translations":["joelho"],"wordClass":"noun"},{"id":265,"word":"sweat","translations":["suor"],"wordClass":"noun"},{"id":266,"word":"disease","translations":["doença"],"wordClass":"noun"},{"id":267,"word":"bone","translations":["osso"],"wordClass":"noun"},{"id":268,"word":"voice","translations":["voz"],"wordClass":"noun"},{"id":269,"word":"skin","translations":["pele"],"wordClass":"noun"},{"id":270,"word":"body","translations":["corpo"],"wordClass":"noun"},{"id":271,"word":"sea","translations":["mar"],"wordClass":"noun"},{"id":272,"word":"ocean","translations":["oceano"],"wordClass":"noun"},{"id":273,"word":"river","translations":["rio"],"wordClass":"noun"},{"id":274,"word":"mountain","translations":["montanha"],"wordClass":"noun"},{"id":275,"word":"rain","translations":["chuva"],"wordClass":"noun"},{"id":276,"word":"snow","translations":["neve"],"wordClass":"noun"},{"id":277,"word":"tree","translations":["árvore"],"wordClass":"noun"},{"id":278,"word":"sun","translations":["sol"],"wordClass":"noun"},{"id":279,"word":"moon","translations":["lua"],"wordClass":"noun"},{"id":280,"word":"world","translations":["mundo"],"wordClass":"noun"},{"id":281,"word":"Earth","translations":["Terra (planeta)"],"wordClass":"noun"},{"id":282,"word":"forest","translations":["floresta"],"wordClass":"noun"},{"id":283,"word":"sky","translations":["céu"],"wordClass":"noun"},{"id":284,"word":"plant","translations":["planta"],"wordClass":"noun"},{"id":285,"word":"wind","translations":["vento"],"wordClass":"noun"},{"id":286,"word":"soil/earth","translations":["solo"],"wordClass":"noun"},{"id":287,"word":"flower","translations":["flor"],"wordClass":"noun"},{"id":288,"word":"valley","translations":["vale"],"wordClass":"noun"},{"id":289,"word":"root","translations":["raiz"],"wordClass":"noun"},{"id":290,"word":"lake","translations":["lago"],"wordClass":"noun"},{"id":291,"word":"star","translations":["estrela"],"wordClass":"noun"},{"id":292,"word":"grass","translations":["grama"],"wordClass":"noun"},{"id":293,"word":"leaf","translations":["folha"],"wordClass":"noun"},{"id":294,"word":"sand","translations":["areia"],"wordClass":"noun"},{"id":295,"word":"beach","translations":["praia"],"wordClass":"noun"},{"id":296,"word":"wave","translations":["onda"],"wordClass":"noun"},{"id":297,"word":"fire","translations":["fogo"],"wordClass":"noun"},{"id":298,"word":"ice","translations":["gelo"],"wordClass":"noun"},{"id":299,"word":"island","translations":["ilha"],"wordClass":"noun"},{"id":300,"word":"hill","translations":["colina"],"wordClass":"noun"},{"id":301,"word":"heat","translations":["calor"],"wordClass":"noun"},{"id":302,"word":"nature","translations":["natureza"],"wordClass":"noun"},{"id":303,"word":"glass","translations":["vidro"],"wordClass":"noun"},{"id":304,"word":"metal","translations":["metal"],"wordClass":"noun"},{"id":305,"word":"plastic","translations":["plástico"],"wordClass":"noun"},{"id":306,"word":"wood","translations":["madeira"],"wordClass":"noun"},{"id":307,"word":"stone","translations":["pedra"],"wordClass":"noun"},{"id":308,"word":"diamond","translations":["diamante"],"wordClass":"noun"},{"id":309,"word":"clay","translations":["argila"],"wordClass":"noun"},{"id":310,"word":"dust","translations":["poeira"],"wordClass":"noun"},{"id":311,"word":"gold","translations":["ouro"],"wordClass":"noun"},{"id":312,"word":"copper","translations":["cobre"],"wordClass":"noun"},{"id":313,"word":"silver","translations":["prata"],"wordClass":"noun"},{"id":314,"word":"material","translations":["material"],"wordClass":"noun"},{"id":315,"word":"meter","translations":["metro"],"wordClass":"noun"},{"id":316,"word":"centimeter","translations":["centímetro (cm)"],"wordClass":"noun"},{"id":317,"word":"kilogram","translations":["quilograma (km)"],"wordClass":"noun"},{"id":318,"word":"inch","translations":["polegada (~2.54 cm)"],"wordClass":"noun"},{"id":319,"word":"pound","translations":["libra (~453 gramas)"],"wordClass":"noun"},{"id":320,"word":"half","translations":["metade"],"wordClass":"noun"},{"id":321,"word":"circle","translations":["círculo"],"wordClass":"noun"},{"id":322,"word":"square","translations":["quadrado"],"wordClass":"noun"},{"id":323,"word":"temperature","translations":["temperatura"],"wordClass":"noun"},{"id":324,"word":"date","translations":["data"],"wordClass":"noun"},{"id":325,"word":"weight","translations":["peso"],"wordClass":"noun"},{"id":326,"word":"edge","translations":["aresta","borda","beira"],"wordClass":"noun"},{"id":327,"word":"corner","translations":["canto","esquina"],"wordClass":"noun"},{"id":328,"word":"map","translations":["mapa"],"wordClass":"noun"},{"id":329,"word":"dot","translations":["ponto"],"wordClass":"noun"},{"id":330,"word":"consonant","translations":["consoante"],"wordClass":"noun"},{"id":331,"word":"vowel","translations":["vogal"],"wordClass":"noun"},{"id":332,"word":"light","translations":["luz"],"wordClass":"noun"},{"id":333,"word":"sound","translations":["som"],"wordClass":"noun"},{"id":334,"word":"yes","translations":["sim"],"wordClass":"noun"},{"id":335,"word":"no","translations":["não"],"wordClass":"noun"},{"id":336,"word":"piece","translations":["pedaço"],"wordClass":"noun"},{"id":337,"word":"pain","translations":["dor"],"wordClass":"noun"},{"id":338,"word":"injury","translations":["lesão"],"wordClass":"noun"},{"id":339,"word":"hole","translations":["buraco"],"wordClass":"noun"},{"id":340,"word":"image","translations":["imagem"],"wordClass":"noun"},{"id":341,"word":"pattern","translations":["padrão"],"wordClass":"noun"},{"id":342,"word":"noun","translations":["substantivo"],"wordClass":"noun"},{"id":343,"word":"verb","translations":["verbo"],"wordClass":"noun"},{"id":344,"word":"adjective","translations":["adjetivo"],"wordClass":"noun"},{"id":345,"word":"top","translations":["parte de cima"],"wordClass":"noun"},{"id":346,"word":"bottom","translations":["parte de baixo"],"wordClass":"noun"},{"id":347,"word":"side","translations":["lado"],"wordClass":"noun"},{"id":348,"word":"front","translations":["frente","em frente"],"wordClass":"noun"},{"id":349,"word":"back","translations":["atrás","para trás"],"wordClass":"noun"},{"id":350,"word":"north","translations":["norte"],"wordClass":"noun"},{"id":351,"word":"south","translations":["sul"],"wordClass":"noun"},{"id":352,"word":"east","translations":["leste"],"wordClass":"noun"},{"id":353,"word":"west","translations":["oeste"],"wordClass":"noun"},{"id":354,"word":"direction","translations":["direção"],"wordClass":"noun"},{"id":355,"word":"summer","translations":["verão"],"wordClass":"noun"},{"id":356,"word":"spring","translations":["primavera"],"wordClass":"noun"},{"id":357,"word":"winter","translations":["inverno"],"wordClass":"noun"},{"id":358,"word":"fall, autumn","translations":["outono"],"wordClass":"noun"},{"id":359,"word":"season","translations":["estação","temporada"],"wordClass":"noun"},{"id":360,"word":"zero","translations":["zero"],"wordClass":"numeral"},{"id":361,"word":"one","translations":["um"],"wordClass":"numeral"},{"id":362,"word":"two","translations":["dois"],"wordClass":"numeral"},{"id":363,"word":"three","translations":["três"],"wordClass":"numeral"},{"id":364,"word":"four","translations":["quatro"],"wordClass":"numeral"},{"id":365,"word":"five","translations":["cinco"],"wordClass":"numeral"},{"id":366,"word":"six","translations":["seis"],"wordClass":"numeral"},{"id":367,"word":"seven","translations":["sete"],"wordClass":"numeral"},{"id":368,"word":"eight","translations":["oito"],"wordClass":"numeral"},{"id":369,"word":"nine","translations":["nove"],"wordClass":"numeral"},{"id":370,"word":"ten","translations":["dez"],"wordClass":"numeral"},{"id":371,"word":"eleven","translations":["onze"],"wordClass":"numeral"},{"id":372,"word":"twelve","translations":["doze"],"wordClass":"numeral"},{"id":373,"word":"thirteen","translations":["treze"],"wordClass":"numeral"},{"id":374,"word":"fourteen","translations":["quatorze"],"wordClass":"numeral"},{"id":375,"word":"fifteen","translations":["quinze"],"wordClass":"numeral"},{"id":376,"word":"sixteen","translations":["dezesseis"],"wordClass":"numeral"},{"id":377,"word":"seventeen","translations":["dezessete"],"wordClass":"numeral"},{"id":378,"word":"eighteen","translations":["dezoito"],"wordClass":"numeral"},{"id":379,"word":"nineteen","translations":["dezenove"],"wordClass":"numeral"},{"id":380,"word":"twenty","translations":["vinte"],"wordClass":"numeral"},{"id":381,"word":"twenty one","translations":["vinte e um"],"wordClass":"numeral"},{"id":382,"word":"twenty two","translations":["vinte e dois"],"wordClass":"numeral"},{"id":383,"word":"thirty","translations":["trinta"],"wordClass":"numeral"},{"id":384,"word":"forty","translations":["quarenta"],"wordClass":"numeral"},{"id":385,"word":"fifty","translations":["cinquenta"],"wordClass":"numeral"},{"id":386,"word":"sixty","translations":["sessenta"],"wordClass":"numeral"},{"id":387,"word":"seventy","translations":["setenta"],"wordClass":"numeral"},{"id":388,"word":"eighty","translations":["oitenta"],"wordClass":"numeral"},{"id":389,"word":"ninety","translations":["noventa"],"wordClass":"numeral"},{"id":390,"word":"one hundred","translations":["cem"],"wordClass":"numeral"},{"id":391,"word":"one hundred one","translations":["cento e vinte e um"],"wordClass":"numeral"},{"id":392,"word":"two hundred","translations":["duzentos"],"wordClass":"numeral"},{"id":393,"word":"three hundred","translations":["trezentos"],"wordClass":"numeral"},{"id":394,"word":"four hundred","translations":["quantrocentos"],"wordClass":"numeral"},{"id":395,"word":"five hundred","translations":["quinhentos"],"wordClass":"numeral"},{"id":396,"word":"one thousand","translations":["mil"],"wordClass":"numeral"},{"id":397,"word":"one million","translations":["um milhão"],"wordClass":"numeral"},{"id":398,"word":"one billion","translations":["um bilhão"],"wordClass":"numeral"},{"id":399,"word":"first","translations":["primeiro"],"wordClass":"numeral"},{"id":400,"word":"second","translations":["segundo"],"wordClass":"numeral"},{"id":401,"word":"third","translations":["terceiro, terço (1/3)"],"wordClass":"numeral"},{"id":402,"word":"fourth (1/4)","translations":["quarto (1/4)"],"wordClass":"numeral"},{"id":403,"word":"fifth","translations":["quinto"],"wordClass":"numeral"},{"id":404,"word":"sixth","translations":["sexto"],"wordClass":"numeral"},{"id":405,"word":"seventh","translations":["sétimo"],"wordClass":"numeral"},{"id":406,"word":"eighth","translations":["oitavo"],"wordClass":"numeral"},{"id":407,"word":"ninth","translations":["nono"],"wordClass":"numeral"},{"id":408,"word":"tenth","translations":["décimo"],"wordClass":"numeral"},{"id":409,"word":"number","translations":["número"],"wordClass":"noun"},{"id":410,"word":"January","translations":["janeiro"],"wordClass":"noun"},{"id":411,"word":"February","translations":["fevereiro"],"wordClass":"noun"},{"id":412,"word":"March","translations":["março"],"wordClass":"noun"},{"id":413,"word":"April","translations":["abril"],"wordClass":"noun"},{"id":414,"word":"May","translations":["maio"],"wordClass":"noun"},{"id":415,"word":"June","translations":["junho"],"wordClass":"noun"},{"id":416,"word":"July","translations":["julho"],"wordClass":"noun"},{"id":417,"word":"August","translations":["agosto"],"wordClass":"noun"},{"id":418,"word":"September","translations":["setembro"],"wordClass":"noun"},{"id":419,"word":"October","translations":["outubro"],"wordClass":"noun"},{"id":420,"word":"November","translations":["novembro"],"wordClass":"noun"},{"id":421,"word":"December","translations":["decemebro"],"wordClass":"noun"},{"id":422,"word":"Monday","translations":["segunda-feira"],"wordClass":"noun"},{"id":423,"word":"Tuesday","translations":["terça-feira"],"wordClass":"noun"},{"id":424,"word":"Wednesday","translations":["quarta-feira"],"wordClass":"noun"},{"id":425,"word":"Thursday","translations":["quinta-feira"],"wordClass":"noun"},{"id":426,"word":"Friday","translations":["sexta-feira"],"wordClass":"noun"},{"id":427,"word":"Saturday","translations":["sábado"],"wordClass":"noun"},{"id":428,"word":"Sunday","translations":["domingo"],"wordClass":"noun"},{"id":429,"word":"year","translations":["ano"],"wordClass":"noun"},{"id":430,"word":"month","translations":["mês"],"wordClass":"noun"},{"id":431,"word":"week","translations":["semana"],"wordClass":"noun"},{"id":432,"word":"day","translations":["dia"],"wordClass":"noun"},{"id":433,"word":"hour","translations":["hora"],"wordClass":"noun"},{"id":434,"word":"minute","translations":["minuto"],"wordClass":"noun"},{"id":435,"word":"second","translations":["segundo"],"wordClass":"noun"},{"id":436,"word":"morning","translations":["manhã"],"wordClass":"noun"},{"id":437,"word":"afternoon","translations":["tarde"],"wordClass":"noun"},{"id":438,"word":"evening","translations":["final da tarde"],"wordClass":"noun"},{"id":439,"word":"night","translations":["noite"],"wordClass":"noun"},{"id":440,"word":"time","translations":["tempo (relógio)"],"wordClass":"noun"},{"id":441,"word":"I","translations":["eu"],"wordClass":"pronoun"},{"id":442,"word":"you","translations":["você"],"wordClass":"pronoun"},{"id":443,"word":"he","translations":["ele"],"wordClass":"pronoun"},{"id":444,"word":"she","translations":["ela"],"wordClass":"pronoun"},{"id":445,"word":"it","translations":["ele/ela (para objetos)"],"wordClass":"pronoun"},{"id":446,"word":"we","translations":["nós"],"wordClass":"pronoun"},{"id":447,"word":"you (you guys, y'all)","translations":["vocês"],"wordClass":"pronoun"},{"id":448,"word":"they","translations":["eles"],"wordClass":"pronoun"},{"id":449,"word":"people","translations":["pessoas","povo"],"wordClass":"noun"},{"id":450,"word":"way","translations":["caminho","jeito"],"wordClass":"noun"},{"id":451,"word":"thing","translations":["coisa"],"wordClass":"noun"},{"id":452,"word":"Mr.","translations":["Sr."],"wordClass":"noun"},{"id":453,"word":"government","translations":["governo"],"wordClass":"noun"},{"id":454,"word":"work","translations":["trabalho"],"wordClass":"noun"},{"id":455,"word":"life","translations":["vida"],"wordClass":"noun"},{"id":456,"word":"system","translations":["sistema"],"wordClass":"noun"},{"id":457,"word":"case","translations":["caso"],"wordClass":"noun"},{"id":458,"word":"part","translations":["parte"],"wordClass":"noun"},{"id":459,"word":"group","translations":["grupo"],"wordClass":"noun"},{"id":460,"word":"area","translations":["área"],"wordClass":"noun"},{"id":461,"word":"word","translations":["palavra"],"wordClass":"noun"},{"id":462,"word":"fact","translations":["fato"],"wordClass":"noun"},{"id":463,"word":"business","translations":["negócio"],"wordClass":"noun"},{"id":464,"word":"home","translations":["lar"],"wordClass":"noun"},{"id":465,"word":"question","translations":["questão"],"wordClass":"noun"},{"id":466,"word":"information","translations":["informação"],"wordClass":"noun"},{"id":467,"word":"power","translations":["poder","potência"],"wordClass":"noun"},{"id":468,"word":"change","translations":["mudança"],"wordClass":"noun"},{"id":469,"word":"interest","translations":["interesse"],"wordClass":"noun"},{"id":470,"word":"development","translations":["desenvolvimento"],"wordClass":"noun"},{"id":471,"word":"other","translations":["outro"],"wordClass":"pronoun"},{"id":472,"word":"form","translations":["forma","formulário"],"wordClass":"noun"},{"id":473,"word":"level","translations":["nível"],"wordClass":"noun"},{"id":474,"word":"council","translations":["câmara","conselho"],"wordClass":"noun"},{"id":475,"word":"policy","translations":["política"],"wordClass":"noun"},{"id":476,"word":"court","translations":["corte","tribunal"],"wordClass":"noun"},{"id":477,"word":"effect","translations":["efeito"],"wordClass":"noun"},{"id":478,"word":"result","translations":["resultado"],"wordClass":"noun"},{"id":479,"word":"idea","translations":["ideia"],"wordClass":"noun"},{"id":480,"word":"use","translations":["uso"],"wordClass":"noun"},{"id":481,"word":"study","translations":["estudo"],"wordClass":"noun"},{"id":482,"word":"name","translations":["nome"],"wordClass":"noun"},{"id":483,"word":"report","translations":["relatório, boletim"],"wordClass":"noun"},{"id":484,"word":"line","translations":["linha"],"wordClass":"noun"},{"id":485,"word":"law","translations":["lei"],"wordClass":"noun"},{"id":486,"word":"authority","translations":["autoridade"],"wordClass":"noun"},{"id":487,"word":"road","translations":["estrada"],"wordClass":"noun"},{"id":488,"word":"minister","translations":["ministro"],"wordClass":"noun"},{"id":489,"word":"rate","translations":["taxa","ritmo"],"wordClass":"noun"},{"id":490,"word":"reason","translations":["razão"],"wordClass":"noun"},{"id":491,"word":"view","translations":["vista"],"wordClass":"noun"},{"id":492,"word":"term","translations":["termo","prazo"],"wordClass":"noun"},{"id":493,"word":"period","translations":["período"],"wordClass":"noun"},{"id":494,"word":"center","translations":["centro"],"wordClass":"noun"},{"id":495,"word":"figure","translations":["figura","dígito"],"wordClass":"noun"},{"id":496,"word":"society","translations":["sociedade"],"wordClass":"noun"},{"id":497,"word":"need","translations":["necessidade","carência"],"wordClass":"noun"},{"id":498,"word":"community","translations":["comunidade"],"wordClass":"noun"},{"id":499,"word":"kind","translations":["tipo"],"wordClass":"noun"},{"id":500,"word":"control","translations":["controle"],"wordClass":"noun"},{"id":501,"word":"action","translations":["ação"],"wordClass":"noun"},{"id":502,"word":"cost","translations":["custo"],"wordClass":"noun"},{"id":503,"word":"issue","translations":["questão","problema"],"wordClass":"noun"},{"id":504,"word":"process","translations":["processo"],"wordClass":"noun"},{"id":505,"word":"position","translations":["posição"],"wordClass":"noun"},{"id":506,"word":"course","translations":["curso"],"wordClass":"noun"},{"id":507,"word":"education","translations":["educação"],"wordClass":"noun"},{"id":508,"word":"type","translations":["tipo"],"wordClass":"noun"},{"id":509,"word":"research","translations":["pesquisa"],"wordClass":"noun"},{"id":510,"word":"subject","translations":["sujeito","tema","matéria (escolar)"],"wordClass":"noun"},{"id":511,"word":"moment","translations":["momento"],"wordClass":"noun"},{"id":512,"word":"age","translations":["idade"],"wordClass":"noun"},{"id":513,"word":"force","translations":["força"],"wordClass":"noun"},{"id":514,"word":"order","translations":["pedido","encomenda","ordem"],"wordClass":"noun"},{"id":515,"word":"value","translations":["valor"],"wordClass":"noun"},{"id":516,"word":"act","translations":["ato"],"wordClass":"noun"},{"id":517,"word":"matter","translations":["assunto","matéria (física)"],"wordClass":"noun"},{"id":518,"word":"health","translations":["saúde"],"wordClass":"noun"},{"id":519,"word":"(a) lot","translations":["muito"],"wordClass":"noun"},{"id":520,"word":"decision","translations":["decisão"],"wordClass":"noun"},{"id":521,"word":"industry","translations":["indústria"],"wordClass":"noun"},{"id":522,"word":"class","translations":["classe","aula"],"wordClass":"noun"},{"id":523,"word":"mind","translations":["mente"],"wordClass":"noun"},{"id":524,"word":"condition","translations":["condição"],"wordClass":"noun"},{"id":525,"word":"centuty","translations":["século"],"wordClass":"noun"},{"id":526,"word":"section","translations":["seção"],"wordClass":"noun"},{"id":527,"word":"activity","translations":["atividade"],"wordClass":"noun"},{"id":528,"word":"sense","translations":["sentido"],"wordClass":"noun"},{"id":529,"word":"sort","translations":["tipo"],"wordClass":"noun"},{"id":530,"word":"staff","translations":["equipe"],"wordClass":"noun"},{"id":531,"word":"experience","translations":["experiência"],"wordClass":"noun"},{"id":532,"word":"language","translations":["língua","idioma"],"wordClass":"noun"},{"id":533,"word":"Mrs.","translations":["Sra."],"wordClass":"noun"},{"id":534,"word":"plan","translations":["plano","mapa"],"wordClass":"noun"},{"id":535,"word":"department","translations":["departamento"],"wordClass":"noun"},{"id":536,"word":"management","translations":["admnistração"],"wordClass":"noun"},{"id":537,"word":"commitee","translations":["comitê"],"wordClass":"noun"},{"id":538,"word":"product","translations":["produto"],"wordClass":"noun"},{"id":539,"word":"practice","translations":["prática"],"wordClass":"noun"},{"id":540,"word":"evidence","translations":["evidência"],"wordClass":"noun"},{"id":541,"word":"meeting","translations":["reunião"],"wordClass":"noun"},{"id":542,"word":"union","translations":["união"],"wordClass":"noun"},{"id":543,"word":"role","translations":["papel (num filme)"],"wordClass":"noun"},{"id":544,"word":"event","translations":["evento"],"wordClass":"noun"},{"id":545,"word":"land","translations":["terra","país"],"wordClass":"noun"},{"id":546,"word":"support","translations":["apoio"],"wordClass":"noun"},{"id":547,"word":"range","translations":["faixa","alcançe"],"wordClass":"noun"},{"id":548,"word":"stage","translations":["palco"],"wordClass":"noun"},{"id":549,"word":"trade","translations":["comércio"],"wordClass":"noun"},{"id":550,"word":"field","translations":["campo"],"wordClass":"noun"},{"id":551,"word":"history","translations":["história"],"wordClass":"noun"},{"id":552,"word":"account","translations":["conta (rede social)"],"wordClass":"noun"},{"id":553,"word":"care","translations":["cuidado"],"wordClass":"noun"},{"id":554,"word":"situation","translations":["situação"],"wordClass":"noun"},{"id":555,"word":"manager","translations":["diretor","gerente"],"wordClass":"noun"},{"id":556,"word":"project","translations":["projeto"],"wordClass":"noun"},{"id":557,"word":"record","translations":["registro"],"wordClass":"noun"},{"id":558,"word":"record","translations":["recorde"],"wordClass":"noun"},{"id":559,"word":"example","translations":["exemplo"],"wordClass":"noun"},{"id":560,"word":"training","translations":["treinamento"],"wordClass":"noun"},{"id":561,"word":"air","translations":["ar"],"wordClass":"noun"},{"id":562,"word":"difference","translations":["diferença"],"wordClass":"noun"},{"id":563,"word":"relantionship","translations":["relação"],"wordClass":"noun"},{"id":564,"word":"sir","translations":[],"wordClass":"noun"},{"id":565,"word":"quality","translations":["qualidade"],"wordClass":"noun"},{"id":566,"word":"rule","translations":["regra"],"wordClass":"noun"},{"id":567,"word":"story","translations":["estória"],"wordClass":"noun"},{"id":568,"word":"tax","translations":["imposto"],"wordClass":"noun"},{"id":569,"word":"worker","translations":["trabalhador"],"wordClass":"noun"},{"id":570,"word":"data","translations":["dados"],"wordClass":"noun"},{"id":571,"word":"model","translations":["modelo"],"wordClass":"noun"},{"id":572,"word":"officer","translations":["oficial"],"wordClass":"noun"},{"id":573,"word":"structure","translations":["estrutura"],"wordClass":"noun"},{"id":574,"word":"method","translations":["método"],"wordClass":"noun"},{"id":575,"word":"unit","translations":["unidade"],"wordClass":"noun"},{"id":576,"word":"movement","translations":["movimento"],"wordClass":"noun"},{"id":577,"word":"detail","translations":["detalhe"],"wordClass":"noun"},{"id":578,"word":"amount","translations":["quantidade"],"wordClass":"noun"},{"id":579,"word":"approach","translations":["abordagem"],"wordClass":"noun"},{"id":580,"word":"bit","translations":["um pouco"],"wordClass":"noun"},{"id":581,"word":"award","translations":["recompensa"],"wordClass":"noun"},{"id":582,"word":"scheme","translations":["esquema"],"wordClass":"noun"},{"id":583,"word":"chapter","translations":["capítulo"],"wordClass":"noun"},{"id":584,"word":"theory","translations":["teoria"],"wordClass":"noun"},{"id":585,"word":"property","translations":["propriedade"],"wordClass":"noun"},{"id":586,"word":"director","translations":["diretor"],"wordClass":"noun"},{"id":587,"word":"leader","translations":["líder"],"wordClass":"noun"},{"id":588,"word":"application","translations":["aplicação"],"wordClass":"noun"},{"id":589,"word":"firm","translations":["firma","empresa"],"wordClass":"noun"},{"id":590,"word":"board","translations":["tábua","quadro"],"wordClass":"noun"},{"id":591,"word":"production","translations":["produção"],"wordClass":"noun"},{"id":592,"word":"chance","translations":["chance"],"wordClass":"noun"},{"id":593,"word":"operation","translations":["operação"],"wordClass":"noun"},{"id":594,"word":"opportunity","translations":["oportunidade"],"wordClass":"noun"},{"id":595,"word":"share","translations":["parte","ação (bolsa de valores)"],"wordClass":"noun"},{"id":596,"word":"agreement","translations":["acordo"],"wordClass":"noun"},{"id":597,"word":"Lord","translations":["Senhor"],"wordClass":"noun"},{"id":598,"word":"picture","translations":["imagem","fotografia"],"wordClass":"noun"},{"id":599,"word":"test","translations":["teste","prova"],"wordClass":"noun"},{"id":600,"word":"security","translations":["segurança (proteção)"],"wordClass":"noun"},{"id":601,"word":"safety","translations":["segurança (pessoal)"],"wordClass":"noun"},{"id":602,"word":"thousand","translations":["milhar"],"wordClass":"noun"},{"id":603,"word":"hundred","translations":["centena"],"wordClass":"noun"}]
+[
+    {
+        "id": 1,
+        "word": "dog",
+        "translations": [
+            "cachorro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 2,
+        "word": "cat",
+        "translations": [
+            "gato"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 3,
+        "word": "fish",
+        "translations": [
+            "peixe"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 4,
+        "word": "bird",
+        "translations": [
+            "ave",
+            "pássaro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 5,
+        "word": "cow",
+        "translations": [
+            "vaca"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 6,
+        "word": "pig",
+        "translations": [
+            "porco"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 7,
+        "word": "horse",
+        "translations": [
+            "cavalo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 8,
+        "word": "wing",
+        "translations": [
+            "asa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 9,
+        "word": "train",
+        "translations": [
+            "trem"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 10,
+        "word": "plane",
+        "translations": [
+            "avião"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 11,
+        "word": "car",
+        "translations": [
+            "carro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 12,
+        "word": "truck",
+        "translations": [
+            "caminhão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 13,
+        "word": "bicycle",
+        "translations": [
+            "bicicleta"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 14,
+        "word": "bus",
+        "translations": [
+            "ônibus"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 15,
+        "word": "boat",
+        "translations": [
+            "barco"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 16,
+        "word": "ship",
+        "translations": [
+            "navio"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 17,
+        "word": "tire",
+        "translations": [
+            "pneu"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 18,
+        "word": "gasoline",
+        "translations": [
+            "gasolina"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 19,
+        "word": "engine",
+        "translations": [
+            "motor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 20,
+        "word": "ticket",
+        "translations": [
+            "bilhete"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 21,
+        "word": "transportation",
+        "translations": [
+            "transporte"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 22,
+        "word": "city",
+        "translations": [
+            "cidade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 23,
+        "word": "house",
+        "translations": [
+            "casa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 24,
+        "word": "apartment",
+        "translations": [
+            "apartamento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 25,
+        "word": "street",
+        "translations": [
+            "rua"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 26,
+        "word": "airport",
+        "translations": [
+            "aeroporto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 27,
+        "word": "train station",
+        "translations": [
+            "estação de trem"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 28,
+        "word": "bridge",
+        "translations": [
+            "ponte"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 29,
+        "word": "hotel",
+        "translations": [
+            "hotel"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 30,
+        "word": "restaurant",
+        "translations": [
+            "restaurante"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 31,
+        "word": "farm",
+        "translations": [
+            "fazenda"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 32,
+        "word": "court",
+        "translations": [
+            "quadra (esportiva)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 33,
+        "word": "school",
+        "translations": [
+            "escola"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 34,
+        "word": "office",
+        "translations": [
+            "escritório"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 35,
+        "word": "room",
+        "translations": [
+            "quarto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 36,
+        "word": "town",
+        "translations": [
+            "cidade (pequena)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 37,
+        "word": "university",
+        "translations": [
+            "universidade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 38,
+        "word": "club",
+        "translations": [
+            "clube",
+            "boate"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 39,
+        "word": "bar",
+        "translations": [
+            "bar"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 40,
+        "word": "park",
+        "translations": [
+            "parque"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 41,
+        "word": "camp",
+        "translations": [
+            "acampamento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 42,
+        "word": "store/shop",
+        "translations": [
+            "loja"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 43,
+        "word": "theater",
+        "translations": [
+            "teatro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 44,
+        "word": "library",
+        "translations": [
+            "biblioteca"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 45,
+        "word": "hospital",
+        "translations": [
+            "hospital"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 46,
+        "word": "church",
+        "translations": [
+            "igreja"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 47,
+        "word": "market",
+        "translations": [
+            "mercado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 48,
+        "word": "country",
+        "translations": [
+            "país"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 49,
+        "word": "building",
+        "translations": [
+            "prédio",
+            "construção"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "word": "ground",
+        "translations": [
+            "solo"
+        ],
+        "wordClass": "noun",
+        "id": 50
+    },
+    {
+        "id": 51,
+        "word": "space (outer space)",
+        "translations": [
+            "espaço (sideral)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 52,
+        "word": "bank",
+        "translations": [
+            "banco"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 53,
+        "word": "location",
+        "translations": [
+            "lugar"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 54,
+        "word": "hat",
+        "translations": [
+            "chapéu"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 55,
+        "word": "dress",
+        "translations": [
+            "vestido"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 56,
+        "word": "suit",
+        "translations": [
+            "traje"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 57,
+        "word": "skirt",
+        "translations": [
+            "saia"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 58,
+        "word": "shirt",
+        "translations": [
+            "camisa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 59,
+        "word": "T-shirt",
+        "translations": [
+            "camiseta"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 60,
+        "word": "pants",
+        "translations": [
+            "calças"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 61,
+        "word": "pocket",
+        "translations": [
+            "bolso"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 62,
+        "word": "coat",
+        "translations": [
+            "casaco"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 63,
+        "word": "stain",
+        "translations": [
+            "mancha"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 64,
+        "word": "clothing",
+        "translations": [
+            "roupas"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 65,
+        "word": "color",
+        "translations": [
+            "cor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 66,
+        "word": "son",
+        "translations": [
+            "filho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 67,
+        "word": "daughter",
+        "translations": [
+            "filha"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 68,
+        "word": "mother",
+        "translations": [
+            "mãe"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 69,
+        "word": "father",
+        "translations": [
+            "pai"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 70,
+        "word": "parent",
+        "translations": [
+            "pais (pai/mãe)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 71,
+        "word": "baby",
+        "translations": [
+            "bebê"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 72,
+        "word": "man",
+        "translations": [
+            "homem"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 73,
+        "word": "woman",
+        "translations": [
+            "mulher"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 74,
+        "word": "brother",
+        "translations": [
+            "irmão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 75,
+        "word": "sister",
+        "translations": [
+            "irmã"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 76,
+        "word": "family",
+        "translations": [
+            "família"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 77,
+        "word": "grandfather",
+        "translations": [
+            "avô"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 78,
+        "word": "grandmother",
+        "translations": [
+            "avó"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 79,
+        "word": "husband",
+        "translations": [
+            "marido"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 80,
+        "word": "wife",
+        "translations": [
+            "esposa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 81,
+        "word": "king",
+        "translations": [
+            "rei"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 82,
+        "word": "queen",
+        "translations": [
+            "rainha"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 83,
+        "word": "president",
+        "translations": [
+            "presidente"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 84,
+        "word": "neighbor",
+        "translations": [
+            "vizinho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 85,
+        "word": "boy",
+        "translations": [
+            "menino"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 86,
+        "word": "girl",
+        "translations": [
+            "menina"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 87,
+        "word": "child",
+        "translations": [
+            "criança"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 88,
+        "word": "adult",
+        "translations": [
+            "adulto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 89,
+        "word": "human",
+        "translations": [
+            "humano"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 90,
+        "word": "friend",
+        "translations": [
+            "amigo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 91,
+        "word": "victim",
+        "translations": [
+            "vítima"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 92,
+        "word": "player",
+        "translations": [
+            "jogador"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 93,
+        "word": "fan",
+        "translations": [
+            "fã"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 94,
+        "word": "crowd",
+        "translations": [
+            "multidão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 95,
+        "word": "person",
+        "translations": [
+            "pessoa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 96,
+        "word": "teacher",
+        "translations": [
+            "professor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 97,
+        "word": "student",
+        "translations": [
+            "estudante"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 98,
+        "word": "lawyer",
+        "translations": [
+            "advogado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 99,
+        "word": "doctor",
+        "translations": [
+            "médico"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 100,
+        "word": "patient",
+        "translations": [
+            "paciente (hospital)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 101,
+        "word": "waiter",
+        "translations": [
+            "garçom"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 102,
+        "word": "secretary",
+        "translations": [
+            "secretário"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 103,
+        "word": "priest",
+        "translations": [
+            "padre",
+            "sacerdote"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 104,
+        "word": "police",
+        "translations": [
+            "polícia"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 105,
+        "word": "army",
+        "translations": [
+            "exército"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 106,
+        "word": "soldier",
+        "translations": [
+            "soldado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 107,
+        "word": "artist",
+        "translations": [
+            "artista"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 108,
+        "word": "author",
+        "translations": [
+            "autor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 109,
+        "word": "manager",
+        "translations": [
+            "administrador"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 110,
+        "word": "reporter",
+        "translations": [
+            "repórter"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 111,
+        "word": "actor",
+        "translations": [
+            "ator"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 112,
+        "word": "actress",
+        "translations": [
+            "atriz"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 113,
+        "word": "job",
+        "translations": [
+            "trabalho",
+            "emprego"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 114,
+        "word": "religion",
+        "translations": [
+            "religião"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 115,
+        "word": "heaven",
+        "translations": [
+            "céu",
+            "Paraíso"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 116,
+        "word": "hell",
+        "translations": [
+            "inferno"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 117,
+        "word": "death",
+        "translations": [
+            "morte"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 118,
+        "word": "medicine",
+        "translations": [
+            "medicina"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 119,
+        "word": "money",
+        "translations": [
+            "dinheiro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 120,
+        "word": "dollar",
+        "translations": [
+            "dólar"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 121,
+        "word": "bill",
+        "translations": [
+            "nota",
+            "conta"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 122,
+        "word": "marriage",
+        "translations": [
+            "casamento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 123,
+        "word": "wedding",
+        "translations": [
+            "festa de casamento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 124,
+        "word": "team",
+        "translations": [
+            "time"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 125,
+        "word": "race (ethnicity)",
+        "translations": [
+            "raça"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 126,
+        "word": "sex",
+        "translations": [
+            "sexo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 127,
+        "word": "murder",
+        "translations": [
+            "assassinato"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 128,
+        "word": "prison",
+        "translations": [
+            "prisão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 129,
+        "word": "technology",
+        "translations": [
+            "tecnologia"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 130,
+        "word": "energy",
+        "translations": [
+            "energia"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 131,
+        "word": "war",
+        "translations": [
+            "guerra"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 132,
+        "word": "peace",
+        "translations": [
+            "paz"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 133,
+        "word": "attack",
+        "translations": [
+            "ataque"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 134,
+        "word": "election",
+        "translations": [
+            "eleição"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 135,
+        "word": "magazine",
+        "translations": [
+            "revista"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 136,
+        "word": "newpaper",
+        "translations": [
+            "jornal"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 137,
+        "word": "poison",
+        "translations": [
+            "veneno"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 138,
+        "word": "gun",
+        "translations": [
+            "arma de fogo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 139,
+        "word": "sport",
+        "translations": [
+            "esporte"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 140,
+        "word": "race (sport)",
+        "translations": [
+            "corrida"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 141,
+        "word": "exercise",
+        "translations": [
+            "exercício"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 142,
+        "word": "ball",
+        "translations": [
+            "bola"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 143,
+        "word": "game",
+        "translations": [
+            "jogo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 144,
+        "word": "price",
+        "translations": [
+            "preço"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 145,
+        "word": "contract",
+        "translations": [
+            "contrato"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 146,
+        "word": "drug",
+        "translations": [
+            "droga"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 147,
+        "word": "sign",
+        "translations": [
+            "sinal"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 148,
+        "word": "science",
+        "translations": [
+            "ciência"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 149,
+        "word": "God",
+        "translations": [
+            "Deus"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 150,
+        "word": "band",
+        "translations": [
+            "banda"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 151,
+        "word": "song",
+        "translations": [
+            "canção"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 152,
+        "word": "muscial instrument",
+        "translations": [
+            "instrumento musical"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 153,
+        "word": "music",
+        "translations": [
+            "música"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 154,
+        "word": "movie",
+        "translations": [
+            "filme"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 155,
+        "word": "art",
+        "translations": [
+            "arte"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 156,
+        "word": "coffee",
+        "translations": [
+            "café"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 157,
+        "word": "tea",
+        "translations": [
+            "chá"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 158,
+        "word": "wine",
+        "translations": [
+            "vinho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 159,
+        "word": "beer",
+        "translations": [
+            "cerveja"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 160,
+        "word": "juice",
+        "translations": [
+            "suco"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 161,
+        "word": "water",
+        "translations": [
+            "água"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 162,
+        "word": "milk",
+        "translations": [
+            "leite"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 163,
+        "word": "beverage",
+        "translations": [
+            "bebida"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 164,
+        "word": "egg",
+        "translations": [
+            "ovo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 165,
+        "word": "cheese",
+        "translations": [
+            "queijo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 166,
+        "word": "bread",
+        "translations": [
+            "pão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 167,
+        "word": "soup",
+        "translations": [
+            "sopa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 168,
+        "word": "cake",
+        "translations": [
+            "bolo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 169,
+        "word": "chicken",
+        "translations": [
+            "frango"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 170,
+        "word": "pork",
+        "translations": [
+            "carne de porco"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 171,
+        "word": "beef",
+        "translations": [
+            "carne de gado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 172,
+        "word": "apple",
+        "translations": [
+            "maçã"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 173,
+        "word": "banana",
+        "translations": [
+            "banana"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 174,
+        "word": "orange",
+        "translations": [
+            "laranja"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 175,
+        "word": "lemon",
+        "translations": [
+            "limão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 176,
+        "word": "corn",
+        "translations": [
+            "milho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 177,
+        "word": "rice",
+        "translations": [
+            "arroz"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 178,
+        "word": "oil",
+        "translations": [
+            "óleo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 179,
+        "word": "seed",
+        "translations": [
+            "semente",
+            "grão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 180,
+        "word": "knife",
+        "translations": [
+            "faca"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 181,
+        "word": "spoon",
+        "translations": [
+            "colher"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 182,
+        "word": "fork",
+        "translations": [
+            "garfo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 183,
+        "word": "plate",
+        "translations": [
+            "prato"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 184,
+        "word": "cup",
+        "translations": [
+            "xícara"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 185,
+        "word": "breakfast",
+        "translations": [
+            "café da manhã"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 186,
+        "word": "lunch",
+        "translations": [
+            "almoço"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 187,
+        "word": "dinner",
+        "translations": [
+            "janta"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 188,
+        "word": "sugar",
+        "translations": [
+            "açúcar"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 189,
+        "word": "salt",
+        "translations": [
+            "sal"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 190,
+        "word": "bottle",
+        "translations": [
+            "garrafa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "word": "food",
+        "translations": [
+            "comida"
+        ],
+        "wordClass": "noun",
+        "id": 191
+    },
+    {
+        "id": 192,
+        "word": "table",
+        "translations": [
+            "mesa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 193,
+        "word": "chair",
+        "translations": [
+            "cadeira"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 194,
+        "word": "bed",
+        "translations": [
+            "cama"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 195,
+        "word": "dream",
+        "translations": [
+            "sonho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 196,
+        "word": "window",
+        "translations": [
+            "janela"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 197,
+        "word": "door",
+        "translations": [
+            "porta"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 198,
+        "word": "bedroom",
+        "translations": [
+            "quarto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 199,
+        "word": "kitchen",
+        "translations": [
+            "cozinha"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 200,
+        "word": "bathroom",
+        "translations": [
+            "banheiro (de casa)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 201,
+        "word": "pencil",
+        "translations": [
+            "lápis"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 202,
+        "word": "pen",
+        "translations": [
+            "caneta"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 203,
+        "word": "photograph",
+        "translations": [
+            "fotografia"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 204,
+        "word": "soap",
+        "translations": [
+            "sabão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 205,
+        "word": "book",
+        "translations": [
+            "livro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 206,
+        "word": "page",
+        "translations": [
+            "página"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 207,
+        "word": "key",
+        "translations": [
+            "chave"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 208,
+        "word": "paint",
+        "translations": [
+            "pintura",
+            "tinta (de parede)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 209,
+        "word": "letter",
+        "translations": [
+            "carta"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 210,
+        "word": "note",
+        "translations": [
+            "nota"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 211,
+        "word": "wall",
+        "translations": [
+            "parede"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 212,
+        "word": "paper",
+        "translations": [
+            "papel"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 213,
+        "word": "floor",
+        "translations": [
+            "chão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 214,
+        "word": "ceiling",
+        "translations": [
+            "teto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 215,
+        "word": "roof",
+        "translations": [
+            "telhado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 216,
+        "word": "pool",
+        "translations": [
+            "piscina"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 217,
+        "word": "lock",
+        "translations": [
+            "cadeado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 218,
+        "word": "telephone",
+        "translations": [
+            "telefone"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 219,
+        "word": "garden",
+        "translations": [
+            "jardim"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 220,
+        "word": "yard",
+        "translations": [
+            "quintal"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 221,
+        "word": "needle",
+        "translations": [
+            "agulha"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 222,
+        "word": "bag",
+        "translations": [
+            "saco, bolsa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 223,
+        "word": "box",
+        "translations": [
+            "caixa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 224,
+        "word": "gift",
+        "translations": [
+            "presente"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 225,
+        "word": "card",
+        "translations": [
+            "cartão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 226,
+        "word": "ring",
+        "translations": [
+            "anel"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 227,
+        "word": "tool",
+        "translations": [
+            "ferramenta"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 228,
+        "word": "clock",
+        "translations": [
+            "relógio (de parede)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 229,
+        "word": "lamp",
+        "translations": [
+            "abajur"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 230,
+        "word": "fan",
+        "translations": [
+            "ventilador"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 231,
+        "word": "cell phone",
+        "translations": [
+            "celular"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 232,
+        "word": "network",
+        "translations": [
+            "rede"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 233,
+        "word": "computer",
+        "translations": [
+            "computador"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 234,
+        "word": "program (computer)",
+        "translations": [
+            "programa (computador)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 235,
+        "word": "laptop",
+        "translations": [
+            "notebook"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 236,
+        "word": "screen",
+        "translations": [
+            "tela"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 237,
+        "word": "camera",
+        "translations": [
+            "câmera"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 238,
+        "word": "television",
+        "translations": [
+            "televisão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 239,
+        "word": "radio",
+        "translations": [
+            "rádio"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 240,
+        "word": "head",
+        "translations": [
+            "cabeça"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 241,
+        "word": "neck",
+        "translations": [
+            "pescoço"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 242,
+        "word": "face",
+        "translations": [
+            "rosto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 243,
+        "word": "beard",
+        "translations": [
+            "barba"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 244,
+        "word": "hair",
+        "translations": [
+            "cabelo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 245,
+        "word": "eye",
+        "translations": [
+            "olho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 246,
+        "word": "mouth",
+        "translations": [
+            "boca"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 247,
+        "word": "lip",
+        "translations": [
+            "lábio"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 248,
+        "word": "nose",
+        "translations": [
+            "nariz"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 249,
+        "word": "tooth",
+        "translations": [
+            "dente"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 250,
+        "word": "ear",
+        "translations": [
+            "orelha",
+            "ouvido"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 251,
+        "word": "tear",
+        "translations": [
+            "lágrima"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 252,
+        "word": "tongue",
+        "translations": [
+            "língua"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 253,
+        "word": "back",
+        "translations": [
+            "costas"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 254,
+        "word": "toe",
+        "translations": [
+            "dedo (do pé)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 255,
+        "word": "finger",
+        "translations": [
+            "dedo (da mão)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 256,
+        "word": "foot",
+        "translations": [
+            "pé"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 257,
+        "word": "hand",
+        "translations": [
+            "mão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 258,
+        "word": "leg",
+        "translations": [
+            "perna"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 259,
+        "word": "arm",
+        "translations": [
+            "braço"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 260,
+        "word": "shoulder",
+        "translations": [
+            "ombro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 261,
+        "word": "heart",
+        "translations": [
+            "coração"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 262,
+        "word": "blood",
+        "translations": [
+            "sangue"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 263,
+        "word": "brain",
+        "translations": [
+            "cérebro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 264,
+        "word": "knee",
+        "translations": [
+            "joelho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 265,
+        "word": "sweat",
+        "translations": [
+            "suor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 266,
+        "word": "disease",
+        "translations": [
+            "doença"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 267,
+        "word": "bone",
+        "translations": [
+            "osso"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 268,
+        "word": "voice",
+        "translations": [
+            "voz"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 269,
+        "word": "skin",
+        "translations": [
+            "pele"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 270,
+        "word": "body",
+        "translations": [
+            "corpo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 271,
+        "word": "sea",
+        "translations": [
+            "mar"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 272,
+        "word": "ocean",
+        "translations": [
+            "oceano"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 273,
+        "word": "river",
+        "translations": [
+            "rio"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 274,
+        "word": "mountain",
+        "translations": [
+            "montanha"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 275,
+        "word": "rain",
+        "translations": [
+            "chuva"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 276,
+        "word": "snow",
+        "translations": [
+            "neve"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 277,
+        "word": "tree",
+        "translations": [
+            "árvore"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 278,
+        "word": "sun",
+        "translations": [
+            "sol"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 279,
+        "word": "moon",
+        "translations": [
+            "lua"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 280,
+        "word": "world",
+        "translations": [
+            "mundo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 281,
+        "word": "Earth",
+        "translations": [
+            "Terra (planeta)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 282,
+        "word": "forest",
+        "translations": [
+            "floresta"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 283,
+        "word": "sky",
+        "translations": [
+            "céu"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 284,
+        "word": "plant",
+        "translations": [
+            "planta"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 285,
+        "word": "wind",
+        "translations": [
+            "vento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 286,
+        "word": "soil/earth",
+        "translations": [
+            "solo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 287,
+        "word": "flower",
+        "translations": [
+            "flor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 288,
+        "word": "valley",
+        "translations": [
+            "vale"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 289,
+        "word": "root",
+        "translations": [
+            "raiz"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 290,
+        "word": "lake",
+        "translations": [
+            "lago"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 291,
+        "word": "star",
+        "translations": [
+            "estrela"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 292,
+        "word": "grass",
+        "translations": [
+            "grama"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 293,
+        "word": "leaf",
+        "translations": [
+            "folha"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 294,
+        "word": "sand",
+        "translations": [
+            "areia"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 295,
+        "word": "beach",
+        "translations": [
+            "praia"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 296,
+        "word": "wave",
+        "translations": [
+            "onda"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 297,
+        "word": "fire",
+        "translations": [
+            "fogo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 298,
+        "word": "ice",
+        "translations": [
+            "gelo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 299,
+        "word": "island",
+        "translations": [
+            "ilha"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 300,
+        "word": "hill",
+        "translations": [
+            "colina"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 301,
+        "word": "heat",
+        "translations": [
+            "calor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 302,
+        "word": "nature",
+        "translations": [
+            "natureza"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 303,
+        "word": "glass",
+        "translations": [
+            "vidro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 304,
+        "word": "metal",
+        "translations": [
+            "metal"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 305,
+        "word": "plastic",
+        "translations": [
+            "plástico"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 306,
+        "word": "wood",
+        "translations": [
+            "madeira"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 307,
+        "word": "stone",
+        "translations": [
+            "pedra"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 308,
+        "word": "diamond",
+        "translations": [
+            "diamante"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 309,
+        "word": "clay",
+        "translations": [
+            "argila"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 310,
+        "word": "dust",
+        "translations": [
+            "poeira"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 311,
+        "word": "gold",
+        "translations": [
+            "ouro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 312,
+        "word": "copper",
+        "translations": [
+            "cobre"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 313,
+        "word": "silver",
+        "translations": [
+            "prata"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 314,
+        "word": "material",
+        "translations": [
+            "material"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 315,
+        "word": "meter",
+        "translations": [
+            "metro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 316,
+        "word": "centimeter",
+        "translations": [
+            "centímetro (cm)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 317,
+        "word": "kilogram",
+        "translations": [
+            "quilograma (km)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 318,
+        "word": "inch",
+        "translations": [
+            "polegada (~2.54 cm)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 319,
+        "word": "pound",
+        "translations": [
+            "libra (~453 gramas)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 320,
+        "word": "half",
+        "translations": [
+            "metade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 321,
+        "word": "circle",
+        "translations": [
+            "círculo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 322,
+        "word": "square",
+        "translations": [
+            "quadrado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 323,
+        "word": "temperature",
+        "translations": [
+            "temperatura"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 324,
+        "word": "date",
+        "translations": [
+            "data"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 325,
+        "word": "weight",
+        "translations": [
+            "peso"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 326,
+        "word": "edge",
+        "translations": [
+            "aresta",
+            "borda",
+            "beira"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 327,
+        "word": "corner",
+        "translations": [
+            "canto",
+            "esquina"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 328,
+        "word": "map",
+        "translations": [
+            "mapa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 329,
+        "word": "dot",
+        "translations": [
+            "ponto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 330,
+        "word": "consonant",
+        "translations": [
+            "consoante"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 331,
+        "word": "vowel",
+        "translations": [
+            "vogal"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 332,
+        "word": "light",
+        "translations": [
+            "luz"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 333,
+        "word": "sound",
+        "translations": [
+            "som"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 334,
+        "word": "yes",
+        "translations": [
+            "sim"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 335,
+        "word": "no",
+        "translations": [
+            "não"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 336,
+        "word": "piece",
+        "translations": [
+            "pedaço"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 337,
+        "word": "pain",
+        "translations": [
+            "dor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 338,
+        "word": "injury",
+        "translations": [
+            "lesão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 339,
+        "word": "hole",
+        "translations": [
+            "buraco"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 340,
+        "word": "image",
+        "translations": [
+            "imagem"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 341,
+        "word": "pattern",
+        "translations": [
+            "padrão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 342,
+        "word": "noun",
+        "translations": [
+            "substantivo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 343,
+        "word": "verb",
+        "translations": [
+            "verbo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 344,
+        "word": "adjective",
+        "translations": [
+            "adjetivo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 345,
+        "word": "top",
+        "translations": [
+            "parte de cima"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 346,
+        "word": "bottom",
+        "translations": [
+            "parte de baixo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 347,
+        "word": "side",
+        "translations": [
+            "lado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 348,
+        "word": "front",
+        "translations": [
+            "frente",
+            "em frente"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 349,
+        "word": "back",
+        "translations": [
+            "atrás",
+            "para trás"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 350,
+        "word": "north",
+        "translations": [
+            "norte"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 351,
+        "word": "south",
+        "translations": [
+            "sul"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 352,
+        "word": "east",
+        "translations": [
+            "leste"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 353,
+        "word": "west",
+        "translations": [
+            "oeste"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 354,
+        "word": "direction",
+        "translations": [
+            "direção"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 355,
+        "word": "summer",
+        "translations": [
+            "verão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 356,
+        "word": "spring",
+        "translations": [
+            "primavera"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 357,
+        "word": "winter",
+        "translations": [
+            "inverno"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 358,
+        "word": "fall, autumn",
+        "translations": [
+            "outono"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 359,
+        "word": "season",
+        "translations": [
+            "estação",
+            "temporada"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 360,
+        "word": "zero",
+        "translations": [
+            "zero"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 361,
+        "word": "one",
+        "translations": [
+            "um"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 362,
+        "word": "two",
+        "translations": [
+            "dois"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 363,
+        "word": "three",
+        "translations": [
+            "três"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 364,
+        "word": "four",
+        "translations": [
+            "quatro"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 365,
+        "word": "five",
+        "translations": [
+            "cinco"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 366,
+        "word": "six",
+        "translations": [
+            "seis"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 367,
+        "word": "seven",
+        "translations": [
+            "sete"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 368,
+        "word": "eight",
+        "translations": [
+            "oito"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 369,
+        "word": "nine",
+        "translations": [
+            "nove"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 370,
+        "word": "ten",
+        "translations": [
+            "dez"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 371,
+        "word": "eleven",
+        "translations": [
+            "onze"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 372,
+        "word": "twelve",
+        "translations": [
+            "doze"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 373,
+        "word": "thirteen",
+        "translations": [
+            "treze"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 374,
+        "word": "fourteen",
+        "translations": [
+            "quatorze"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 375,
+        "word": "fifteen",
+        "translations": [
+            "quinze"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 376,
+        "word": "sixteen",
+        "translations": [
+            "dezesseis"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 377,
+        "word": "seventeen",
+        "translations": [
+            "dezessete"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 378,
+        "word": "eighteen",
+        "translations": [
+            "dezoito"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 379,
+        "word": "nineteen",
+        "translations": [
+            "dezenove"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 380,
+        "word": "twenty",
+        "translations": [
+            "vinte"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 381,
+        "word": "twenty one",
+        "translations": [
+            "vinte e um"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 382,
+        "word": "twenty two",
+        "translations": [
+            "vinte e dois"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 383,
+        "word": "thirty",
+        "translations": [
+            "trinta"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 384,
+        "word": "forty",
+        "translations": [
+            "quarenta"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 385,
+        "word": "fifty",
+        "translations": [
+            "cinquenta"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 386,
+        "word": "sixty",
+        "translations": [
+            "sessenta"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 387,
+        "word": "seventy",
+        "translations": [
+            "setenta"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 388,
+        "word": "eighty",
+        "translations": [
+            "oitenta"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 389,
+        "word": "ninety",
+        "translations": [
+            "noventa"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 390,
+        "word": "one hundred",
+        "translations": [
+            "cem"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 391,
+        "word": "one hundred one",
+        "translations": [
+            "cento e vinte e um"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 392,
+        "word": "two hundred",
+        "translations": [
+            "duzentos"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 393,
+        "word": "three hundred",
+        "translations": [
+            "trezentos"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 394,
+        "word": "four hundred",
+        "translations": [
+            "quantrocentos"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 395,
+        "word": "five hundred",
+        "translations": [
+            "quinhentos"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 396,
+        "word": "one thousand",
+        "translations": [
+            "mil"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 397,
+        "word": "one million",
+        "translations": [
+            "um milhão"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 398,
+        "word": "one billion",
+        "translations": [
+            "um bilhão"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 399,
+        "word": "first",
+        "translations": [
+            "primeiro"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 400,
+        "word": "second",
+        "translations": [
+            "segundo"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 401,
+        "word": "third",
+        "translations": [
+            "terceiro, terço (1/3)"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 402,
+        "word": "fourth (1/4)",
+        "translations": [
+            "quarto (1/4)"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 403,
+        "word": "fifth",
+        "translations": [
+            "quinto"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 404,
+        "word": "sixth",
+        "translations": [
+            "sexto"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 405,
+        "word": "seventh",
+        "translations": [
+            "sétimo"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 406,
+        "word": "eighth",
+        "translations": [
+            "oitavo"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 407,
+        "word": "ninth",
+        "translations": [
+            "nono"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 408,
+        "word": "tenth",
+        "translations": [
+            "décimo"
+        ],
+        "wordClass": "numeral"
+    },
+    {
+        "id": 409,
+        "word": "number",
+        "translations": [
+            "número"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 410,
+        "word": "January",
+        "translations": [
+            "janeiro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 411,
+        "word": "February",
+        "translations": [
+            "fevereiro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 412,
+        "word": "March",
+        "translations": [
+            "março"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 413,
+        "word": "April",
+        "translations": [
+            "abril"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 414,
+        "word": "May",
+        "translations": [
+            "maio"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 415,
+        "word": "June",
+        "translations": [
+            "junho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 416,
+        "word": "July",
+        "translations": [
+            "julho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 417,
+        "word": "August",
+        "translations": [
+            "agosto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 418,
+        "word": "September",
+        "translations": [
+            "setembro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 419,
+        "word": "October",
+        "translations": [
+            "outubro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 420,
+        "word": "November",
+        "translations": [
+            "novembro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 421,
+        "word": "December",
+        "translations": [
+            "decemebro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 422,
+        "word": "Monday",
+        "translations": [
+            "segunda-feira"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 423,
+        "word": "Tuesday",
+        "translations": [
+            "terça-feira"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 424,
+        "word": "Wednesday",
+        "translations": [
+            "quarta-feira"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 425,
+        "word": "Thursday",
+        "translations": [
+            "quinta-feira"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 426,
+        "word": "Friday",
+        "translations": [
+            "sexta-feira"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 427,
+        "word": "Saturday",
+        "translations": [
+            "sábado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 428,
+        "word": "Sunday",
+        "translations": [
+            "domingo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 429,
+        "word": "year",
+        "translations": [
+            "ano"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 430,
+        "word": "month",
+        "translations": [
+            "mês"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 431,
+        "word": "week",
+        "translations": [
+            "semana"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 432,
+        "word": "day",
+        "translations": [
+            "dia"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 433,
+        "word": "hour",
+        "translations": [
+            "hora"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 434,
+        "word": "minute",
+        "translations": [
+            "minuto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 435,
+        "word": "second",
+        "translations": [
+            "segundo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 436,
+        "word": "morning",
+        "translations": [
+            "manhã"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 437,
+        "word": "afternoon",
+        "translations": [
+            "tarde"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 438,
+        "word": "evening",
+        "translations": [
+            "final da tarde"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 439,
+        "word": "night",
+        "translations": [
+            "noite"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 440,
+        "word": "time",
+        "translations": [
+            "tempo (relógio)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 441,
+        "word": "I",
+        "translations": [
+            "eu"
+        ],
+        "wordClass": "pronoun"
+    },
+    {
+        "id": 442,
+        "word": "you",
+        "translations": [
+            "você"
+        ],
+        "wordClass": "pronoun"
+    },
+    {
+        "id": 443,
+        "word": "he",
+        "translations": [
+            "ele"
+        ],
+        "wordClass": "pronoun"
+    },
+    {
+        "id": 444,
+        "word": "she",
+        "translations": [
+            "ela"
+        ],
+        "wordClass": "pronoun"
+    },
+    {
+        "id": 445,
+        "word": "it",
+        "translations": [
+            "ele/ela (para objetos)"
+        ],
+        "wordClass": "pronoun"
+    },
+    {
+        "id": 446,
+        "word": "we",
+        "translations": [
+            "nós"
+        ],
+        "wordClass": "pronoun"
+    },
+    {
+        "id": 447,
+        "word": "you (you guys, y'all)",
+        "translations": [
+            "vocês"
+        ],
+        "wordClass": "pronoun"
+    },
+    {
+        "id": 448,
+        "word": "they",
+        "translations": [
+            "eles"
+        ],
+        "wordClass": "pronoun"
+    },
+    {
+        "id": 449,
+        "word": "people",
+        "translations": [
+            "pessoas",
+            "povo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 450,
+        "word": "way",
+        "translations": [
+            "caminho",
+            "jeito"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 451,
+        "word": "thing",
+        "translations": [
+            "coisa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 452,
+        "word": "Mr.",
+        "translations": [
+            "Sr."
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 453,
+        "word": "government",
+        "translations": [
+            "governo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 454,
+        "word": "work",
+        "translations": [
+            "trabalho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 455,
+        "word": "life",
+        "translations": [
+            "vida"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 456,
+        "word": "system",
+        "translations": [
+            "sistema"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 457,
+        "word": "case",
+        "translations": [
+            "caso"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 458,
+        "word": "part",
+        "translations": [
+            "parte"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 459,
+        "word": "group",
+        "translations": [
+            "grupo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 460,
+        "word": "area",
+        "translations": [
+            "área"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 461,
+        "word": "word",
+        "translations": [
+            "palavra"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 462,
+        "word": "fact",
+        "translations": [
+            "fato"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 463,
+        "word": "business",
+        "translations": [
+            "negócio"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 464,
+        "word": "home",
+        "translations": [
+            "lar"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 465,
+        "word": "question",
+        "translations": [
+            "questão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 466,
+        "word": "information",
+        "translations": [
+            "informação"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 467,
+        "word": "power",
+        "translations": [
+            "poder",
+            "potência"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 468,
+        "word": "change",
+        "translations": [
+            "mudança"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 469,
+        "word": "interest",
+        "translations": [
+            "interesse"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 470,
+        "word": "development",
+        "translations": [
+            "desenvolvimento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 471,
+        "word": "other",
+        "translations": [
+            "outro"
+        ],
+        "wordClass": "pronoun"
+    },
+    {
+        "id": 472,
+        "word": "form",
+        "translations": [
+            "forma",
+            "formulário"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 473,
+        "word": "level",
+        "translations": [
+            "nível"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 474,
+        "word": "council",
+        "translations": [
+            "câmara",
+            "conselho"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 475,
+        "word": "policy",
+        "translations": [
+            "política"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 476,
+        "word": "court",
+        "translations": [
+            "corte",
+            "tribunal"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 477,
+        "word": "effect",
+        "translations": [
+            "efeito"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 478,
+        "word": "result",
+        "translations": [
+            "resultado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 479,
+        "word": "idea",
+        "translations": [
+            "ideia"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 480,
+        "word": "use",
+        "translations": [
+            "uso"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 481,
+        "word": "study",
+        "translations": [
+            "estudo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 482,
+        "word": "name",
+        "translations": [
+            "nome"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 483,
+        "word": "report",
+        "translations": [
+            "relatório, boletim"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 484,
+        "word": "line",
+        "translations": [
+            "linha"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 485,
+        "word": "law",
+        "translations": [
+            "lei"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 486,
+        "word": "authority",
+        "translations": [
+            "autoridade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 487,
+        "word": "road",
+        "translations": [
+            "estrada"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 488,
+        "word": "minister",
+        "translations": [
+            "ministro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 489,
+        "word": "rate",
+        "translations": [
+            "taxa",
+            "ritmo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 490,
+        "word": "reason",
+        "translations": [
+            "razão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 491,
+        "word": "view",
+        "translations": [
+            "vista"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 492,
+        "word": "term",
+        "translations": [
+            "termo",
+            "prazo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 493,
+        "word": "period",
+        "translations": [
+            "período"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 494,
+        "word": "center",
+        "translations": [
+            "centro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 495,
+        "word": "figure",
+        "translations": [
+            "figura",
+            "dígito"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 496,
+        "word": "society",
+        "translations": [
+            "sociedade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 497,
+        "word": "need",
+        "translations": [
+            "necessidade",
+            "carência"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 498,
+        "word": "community",
+        "translations": [
+            "comunidade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 499,
+        "word": "kind",
+        "translations": [
+            "tipo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 500,
+        "word": "control",
+        "translations": [
+            "controle"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 501,
+        "word": "action",
+        "translations": [
+            "ação"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 502,
+        "word": "cost",
+        "translations": [
+            "custo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 503,
+        "word": "issue",
+        "translations": [
+            "questão",
+            "problema"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 504,
+        "word": "process",
+        "translations": [
+            "processo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 505,
+        "word": "position",
+        "translations": [
+            "posição"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 506,
+        "word": "course",
+        "translations": [
+            "curso"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 507,
+        "word": "education",
+        "translations": [
+            "educação"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 508,
+        "word": "type",
+        "translations": [
+            "tipo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 509,
+        "word": "research",
+        "translations": [
+            "pesquisa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 510,
+        "word": "subject",
+        "translations": [
+            "sujeito",
+            "tema",
+            "matéria (escolar)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 511,
+        "word": "moment",
+        "translations": [
+            "momento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 512,
+        "word": "age",
+        "translations": [
+            "idade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 513,
+        "word": "force",
+        "translations": [
+            "força"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 514,
+        "word": "order",
+        "translations": [
+            "pedido",
+            "encomenda",
+            "ordem"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 515,
+        "word": "value",
+        "translations": [
+            "valor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 516,
+        "word": "act",
+        "translations": [
+            "ato"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 517,
+        "word": "matter",
+        "translations": [
+            "assunto",
+            "matéria (física)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 518,
+        "word": "health",
+        "translations": [
+            "saúde"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 519,
+        "word": "(a) lot",
+        "translations": [
+            "muito"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 520,
+        "word": "decision",
+        "translations": [
+            "decisão"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 521,
+        "word": "industry",
+        "translations": [
+            "indústria"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 522,
+        "word": "class",
+        "translations": [
+            "classe",
+            "aula"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 523,
+        "word": "mind",
+        "translations": [
+            "mente"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 524,
+        "word": "condition",
+        "translations": [
+            "condição"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 525,
+        "word": "centuty",
+        "translations": [
+            "século"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 526,
+        "word": "section",
+        "translations": [
+            "seção"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 527,
+        "word": "activity",
+        "translations": [
+            "atividade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 528,
+        "word": "sense",
+        "translations": [
+            "sentido"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 529,
+        "word": "sort",
+        "translations": [
+            "tipo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 530,
+        "word": "staff",
+        "translations": [
+            "equipe"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 531,
+        "word": "experience",
+        "translations": [
+            "experiência"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 532,
+        "word": "language",
+        "translations": [
+            "língua",
+            "idioma"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 533,
+        "word": "Mrs.",
+        "translations": [
+            "Sra."
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 534,
+        "word": "plan",
+        "translations": [
+            "plano",
+            "mapa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 535,
+        "word": "department",
+        "translations": [
+            "departamento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 536,
+        "word": "management",
+        "translations": [
+            "admnistração"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 537,
+        "word": "commitee",
+        "translations": [
+            "comitê"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 538,
+        "word": "product",
+        "translations": [
+            "produto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 539,
+        "word": "practice",
+        "translations": [
+            "prática"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 540,
+        "word": "evidence",
+        "translations": [
+            "evidência"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 541,
+        "word": "meeting",
+        "translations": [
+            "reunião"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 542,
+        "word": "union",
+        "translations": [
+            "união"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 543,
+        "word": "role",
+        "translations": [
+            "papel (num filme)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 544,
+        "word": "event",
+        "translations": [
+            "evento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 545,
+        "word": "land",
+        "translations": [
+            "terra",
+            "país"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 546,
+        "word": "support",
+        "translations": [
+            "apoio"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 547,
+        "word": "range",
+        "translations": [
+            "faixa",
+            "alcançe"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 548,
+        "word": "stage",
+        "translations": [
+            "palco"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 549,
+        "word": "trade",
+        "translations": [
+            "comércio"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 550,
+        "word": "field",
+        "translations": [
+            "campo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 551,
+        "word": "history",
+        "translations": [
+            "história"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 552,
+        "word": "account",
+        "translations": [
+            "conta (rede social)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 553,
+        "word": "care",
+        "translations": [
+            "cuidado"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 554,
+        "word": "situation",
+        "translations": [
+            "situação"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 555,
+        "word": "manager",
+        "translations": [
+            "diretor",
+            "gerente"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 556,
+        "word": "project",
+        "translations": [
+            "projeto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 557,
+        "word": "record",
+        "translations": [
+            "registro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 558,
+        "word": "record",
+        "translations": [
+            "recorde"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 559,
+        "word": "example",
+        "translations": [
+            "exemplo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 560,
+        "word": "training",
+        "translations": [
+            "treinamento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 561,
+        "word": "air",
+        "translations": [
+            "ar"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 562,
+        "word": "difference",
+        "translations": [
+            "diferença"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 563,
+        "word": "relantionship",
+        "translations": [
+            "relação"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 564,
+        "word": "sir",
+        "translations": [],
+        "wordClass": "noun"
+    },
+    {
+        "id": 565,
+        "word": "quality",
+        "translations": [
+            "qualidade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 566,
+        "word": "rule",
+        "translations": [
+            "regra"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 567,
+        "word": "story",
+        "translations": [
+            "estória"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 568,
+        "word": "tax",
+        "translations": [
+            "imposto"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 569,
+        "word": "worker",
+        "translations": [
+            "trabalhador"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 570,
+        "word": "data",
+        "translations": [
+            "dados"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 571,
+        "word": "model",
+        "translations": [
+            "modelo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 572,
+        "word": "officer",
+        "translations": [
+            "oficial"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 573,
+        "word": "structure",
+        "translations": [
+            "estrutura"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 574,
+        "word": "method",
+        "translations": [
+            "método"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 575,
+        "word": "unit",
+        "translations": [
+            "unidade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 576,
+        "word": "movement",
+        "translations": [
+            "movimento"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 577,
+        "word": "detail",
+        "translations": [
+            "detalhe"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 578,
+        "word": "amount",
+        "translations": [
+            "quantidade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 579,
+        "word": "approach",
+        "translations": [
+            "abordagem"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 580,
+        "word": "bit",
+        "translations": [
+            "um pouco"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 581,
+        "word": "award",
+        "translations": [
+            "recompensa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 582,
+        "word": "scheme",
+        "translations": [
+            "esquema"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 583,
+        "word": "chapter",
+        "translations": [
+            "capítulo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 584,
+        "word": "theory",
+        "translations": [
+            "teoria"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 585,
+        "word": "property",
+        "translations": [
+            "propriedade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 586,
+        "word": "director",
+        "translations": [
+            "diretor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 587,
+        "word": "leader",
+        "translations": [
+            "líder"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 588,
+        "word": "application",
+        "translations": [
+            "aplicação"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 589,
+        "word": "firm",
+        "translations": [
+            "firma",
+            "empresa"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 590,
+        "word": "board",
+        "translations": [
+            "tábua",
+            "quadro"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 591,
+        "word": "production",
+        "translations": [
+            "produção"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 592,
+        "word": "chance",
+        "translations": [
+            "chance"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 593,
+        "word": "operation",
+        "translations": [
+            "operação"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 594,
+        "word": "opportunity",
+        "translations": [
+            "oportunidade"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 595,
+        "word": "share",
+        "translations": [
+            "parte",
+            "ação (bolsa de valores)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 596,
+        "word": "agreement",
+        "translations": [
+            "acordo"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 597,
+        "word": "Lord",
+        "translations": [
+            "Senhor"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 598,
+        "word": "picture",
+        "translations": [
+            "imagem",
+            "fotografia"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 599,
+        "word": "test",
+        "translations": [
+            "teste",
+            "prova"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 600,
+        "word": "security",
+        "translations": [
+            "segurança (proteção)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 601,
+        "word": "safety",
+        "translations": [
+            "segurança (pessoal)"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 602,
+        "word": "thousand",
+        "translations": [
+            "milhar"
+        ],
+        "wordClass": "noun"
+    },
+    {
+        "id": 603,
+        "word": "hundred",
+        "translations": [
+            "centena"
+        ],
+        "wordClass": "noun"
+    }
+]
