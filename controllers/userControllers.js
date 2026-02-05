@@ -28,7 +28,6 @@ const createNewUser = async (req, res) => {
         req.headers.from = '/users'
         const accessToken = await login(req, res)
         
-        //Erro está aqui
         return res.status(201).json({ message: `New user ${username} created.`, accessToken})
     } else {
         return res.status(400).json({ message: "Invalid user data received" })
