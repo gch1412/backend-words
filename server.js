@@ -23,7 +23,6 @@ app.use('/words', require('./routes/wordsRoutes'))
 
 
 mongoose.connection.once('open', () => {
-    console.log('Connected to Mongo DB!')
     app.listen(PORT, () => console.log(`Server running on port ${PORT}`))
 })
 

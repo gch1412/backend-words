@@ -101,7 +101,6 @@ const logout = async (req, res) => {
     if (!cookies?.jwt) return res.sendStatus(204)
 
     const refreshToken = cookies.jwt
-    console.log(refreshToken)
 
     const foundUser = await UserWords.findOne({ refreshToken }).exec()
 
